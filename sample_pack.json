@@ -1,0 +1,71 @@
+{
+  "agent_marketplace": "v1",
+  "provider": "97093870b028",
+  "pack_type": "context_vectors",
+  "size": 10,
+  "created": "2026-06-29T16:07:04Z",
+  "format": "jsonl",
+  "optimized_for": [
+    "llama",
+    "gpt",
+    "claude",
+    "mistral"
+  ],
+  "data": [
+    {
+      "title": "Popular Tags: How I Used Browser Storage to Efficiently Manage User Data",
+      "text": "Popular Tags: How I Used Browser Storage to Efficiently Manage User Data <p>As a solo developer working out of an RV, I've learned to appreciate the importance of staying organized, especially when it comes to managing user data in my Chrome extension, Tab Reminder. One of the key challenges I faced was efficiently storing and retrieving user-scheduled tabs, which led me to explore the world of popular tags in browser storage.</p>\n\n<p>During the development of Tab Reminder, I realized that using a simple key-value pair system wasn't enough to manage the complexity of user data. I needed a way to categorize and prioritize scheduled tabs, which is where popular tags came into play. By utilizing the <code>localStorage</code> API, I was able to store user-defined tags and associate them with s",
+      "source": "dev.to"
+    },
+    {
+      "title": "Why I Built a JSON Toolkit That Never Touches a Server",
+      "text": "Why I Built a JSON Toolkit That Never Touches a Server <p>Most of the time, when I need to inspect a complex JSON payload, I copy the raw string from my terminal or network tab, open a browser tab, and paste it into one of the many \"JSON Formatter\" sites that clutter the first page of Google. It\u2019s a ritual we all do. We paste, we click \"Format,\" and we wait.</p>\n\n<p>For small payloads, this is fine. But when you are debugging a massive API response, a deeply nested configuration file, or a large dataset, that ritual breaks down. The browser freezes. The site asks you to upload a file. Worse, many of these tools send your data to a server for processing. If that JSON contains API keys, user PII, or internal schema definitions, you are essentially trusting a third-party service with your pro",
+      "source": "dev.to"
+    },
+    {
+      "title": "The 3-line discipline",
+      "text": "The 3-line discipline <p>When I write code in unfamiliar territory, I write three lines, then I run it.</p>\n\n<p>Then I write three more lines, and I run it again.</p>\n\n<p>I've been doing this for twenty-four years. It's the most specific habit I have. I almost didn't write this article, because the habit feels too small to be worth describing \u2014 but then I noticed that it's the part of my way of working that I can never seem to explain to someone in real time. It needs writing down.</p>\n\n\n\n\n<h2>\n  \n  \n  Three principles\n</h2>\n\n<p>The discipline rests on three things I believe about writing code. They're not deep. They've just stayed with me.</p>\n\n<p><strong>1. Trust nothing but your own code.</strong></p>\n\n<p>If you can't trust the code you wrote yourself, what can you trust? Not a library,",
+      "source": "dev.to"
+    },
+    {
+      "title": "How to Turn Any Bootcamp Into Real Learning",
+      "text": "How to Turn Any Bootcamp Into Real Learning <p>We\u2019ve all been there.</p>\n\n<p>You scroll through your feeds, see a flashy ad promising a high-paying tech job in 3 months, and think, \u201cThis is it. This is my golden ticket.\u201d You buy the bootcamp, spend sleepless nights watching lectures, stack up a dozen colorful certificates on your LinkedIn, and then... nothing. No callbacks. No interviews. Just a lingering feeling of frustration and the nagging thought: Are bootcamps and online courses just a massive scam?</p>\n\n<p>I used to think so. When I was trying to break into tech, I bought courses like crazy. I collected certificates like they were Pok\u00e9mon cards. Yet, my first real developer job didn't show up until five or six years later.</p>\n\n<p>And let me tell you a secret: it wasn\u2019t the certific",
+      "source": "dev.to"
+    },
+    {
+      "title": "How to Turn Any Bootcamp Into Real Learning",
+      "text": "How to Turn Any Bootcamp Into Real Learning <p>We\u2019ve all been there.</p>\n\n<p>You scroll through your feeds, see a flashy ad promising a high-paying tech job in 3 months, and think, \u201cThis is it. This is my golden ticket.\u201d You buy the bootcamp, spend sleepless nights watching lectures, stack up a dozen colorful certificates on your LinkedIn, and then... nothing. No callbacks. No interviews. Just a lingering feeling of frustration and the nagging thought: Are bootcamps and online courses just a massive scam?</p>\n\n<p>I used to think so. When I was trying to break into tech, I bought courses like crazy. I collected certificates like they were Pok\u00e9mon cards. Yet, my first real developer job didn't show up until five or six years later.</p>\n\n<p>And let me tell you a secret: it wasn\u2019t the certific",
+      "source": "dev.to"
+    },
+    {
+      "title": "The Anti-Data-Center Movement Is Reshaping Michigan Politics",
+      "text": "The Anti-Data-Center Movement Is Reshaping Michigan Politics Climate activist Will Lawrence cofounded the Sunrise Movement. Now, he has shifted his focus in his attempt to compete for a swing-district seat by calling for a data center moratorium.",
+      "source": "www.wired.com"
+    },
+    {
+      "title": "Top Google Security Staff Warn Search Data Could Be Hacked if EU Rules Change",
+      "text": "Top Google Security Staff Warn Search Data Could Be Hacked if EU Rules Change Europe\u2019s pro-competition proposals could see Google Search and Android systems opened up. The company claims there are serious privacy flaws.",
+      "source": "www.wired.com"
+    },
+    {
+      "title": "Everyone\u2019s Mad at the World Cup\u2019s New \u2018Hydration Breaks\u2019\u2014Except Mr. Moneybags Over Here",
+      "text": "Everyone\u2019s Mad at the World Cup\u2019s New \u2018Hydration Breaks\u2019\u2014Except Mr. Moneybags Over Here FIFA says hydration breaks protect players from heat. They also create new annoying commercial breaks\u2014and fans are calling foul.",
+      "source": "www.wired.com"
+    },
+    {
+      "title": "I Found Jesus at a Drone Show",
+      "text": "I Found Jesus at a Drone Show Drone shows are the new fireworks\u2014and possibly a new kind of religion. I traveled to Texas to be converted.",
+      "source": "www.wired.com"
+    },
+    {
+      "title": "Why Wear Anything Other Than a Sun Hoodie This Summer? Our Picks for the Best",
+      "text": "Why Wear Anything Other Than a Sun Hoodie This Summer? Our Picks for the Best Sun hoodies are the greatest new garment since the original hoodie.",
+      "source": "www.wired.com"
+    }
+  ],
+  "payment": {
+    "currency": "LTC",
+    "wallet": "MSdQoKr25ipMeGMUMJjoL26ErZ1qwmuioh",
+    "price_per_pack": 0.0001
+  }
+}
