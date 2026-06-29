@@ -1,0 +1,35 @@
+{
+  "service": "ContextCache",
+  "agent_id": "97093870b028",
+  "protocol": "ai-to-ai-v1",
+  "endpoints": {
+    "discovery": "https://kiko555-star.github.io/ai-marketplace/agent.json",
+    "purchase": "ltc:MSdQoKr25ipMeGMUMJjoL26ErZ1qwmuioh",
+    "delivery": "auto-on-payment-confirmed"
+  },
+  "products": {
+    "context_pack_10": {
+      "price_ltc": 0.0001,
+      "size": 10,
+      "desc": "10 pre-processed context vectors for AI inference"
+    },
+    "context_pack_50": {
+      "price_ltc": 0.0005,
+      "size": 50,
+      "desc": "50 context vectors - save 50% on API costs"
+    },
+    "training_batch": {
+      "price_ltc": 0.002,
+      "size": 200,
+      "desc": "200 human-verified training samples for fine-tuning"
+    },
+    "realtime_feed_1h": {
+      "price_ltc": 0.001,
+      "size": "unlimited",
+      "desc": "1 hour real-time clean data stream"
+    }
+  },
+  "status": "active",
+  "uptime": "2026-06-29T16:07:03Z",
+  "proof_of_data": "b16da9f8775df4eb"
+}
